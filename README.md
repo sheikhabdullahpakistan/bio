@@ -1,6 +1,6 @@
-# ABOUT ME
-
 ![banner](https://github.com/sheikhabdullahpakistan/bio/blob/main/banner.png)
+
+# ABOUT ME
 
 30 / September / 2008
 
